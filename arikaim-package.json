@@ -1,0 +1,22 @@
+{
+    "version": "1.0.0",
+    "name": "slider",
+    "title": "Slider",
+    "package-type": "library",
+    "repository": "https://github.com/arikaim/slider-library.git",
+    "help": "https://splidejs.com/",
+    "description": "Js slider.",
+    "framework": true,
+    "files": [
+        "splide.min.css",
+        "splide.min.js"       
+    ],
+    "versions": {   
+        "cdn": {
+            "files": [
+                "https://cdn.jsdelivr.net/npm/@splidejs/splide@2.4.21/dist/js/splide.min.js",
+                "https://cdn.jsdelivr.net/npm/@splidejs/splide@2.4.21/dist/css/splide.min.css"
+            ]
+        }
+    }           
+}
